@@ -1,0 +1,13 @@
+C:\Users\Death\Desktop\Marksman\bin\Debug\Marksman.exe.config
+C:\Users\Death\Desktop\Marksman\obj\Debug\Marksman.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\Marksman\obj\Debug\Marksman.Properties.Resources.resources
+C:\Users\Death\Desktop\Marksman\obj\Debug\Marksman.csproj.GenerateResource.Cache
+C:\Users\Death\Desktop\Marksman\bin\Debug\Marksman.exe
+C:\Users\Death\Desktop\Marksman\bin\Debug\Marksman.pdb
+C:\Users\Death\Desktop\Marksman\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Death\Desktop\Marksman\bin\Debug\LeagueSharp.dll
+C:\Users\Death\Desktop\Marksman\bin\Debug\SharpDX.dll
+C:\Users\Death\Desktop\Marksman\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Death\Desktop\Marksman\bin\Debug\LeagueSharp.xml
+C:\Users\Death\Desktop\Marksman\obj\Debug\Marksman.exe
+C:\Users\Death\Desktop\Marksman\obj\Debug\Marksman.pdb
